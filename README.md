@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Joshua-Keely
-- 👀 I’m interested in NFT's, networking and cybersecurity
-- 🌱 I’m currently learning candy machines 
-- 💞️ I’m looking to collaborate on a NFT project
+- 👀 I’m interested in Docker, networking and cybersecurity
+- 🌱 I’m currently learning Java, Docker and Python
 - 📫 How to reach me: joshuak#1133 on discord 
