@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Joshua-Keely
-- 👀 I’m interested in Docker, networking and cybersecurity
-- 🌱 I’m currently learning Kubernetes, Docker and Python
+- 👀 I’m interested in Kubernetes, networking and cybersecurity
+- 🌱 I’m currently learning AI, Kubernetes and Python
 - 📫 How to reach me: joshuak#1133 on discord 
